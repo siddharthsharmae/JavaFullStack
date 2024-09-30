@@ -1,7 +1,6 @@
-
+// Made by Siddharth Sharma
 import java.util.Scanner;
 
-//Program to check whether a string is palindrome or not
 public class Palindrome {
 
     public static boolean isPalindrome(String s) {
